@@ -16,7 +16,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - :school: - 👨‍💻 Soy `Analista en sistemas` en [Instituto Cervantes (Córdoba, Argentina)](https://www.cervantes.edu.ar/?gad_source=1&gclid=Cj0KCQjw6auyBhDzARIsALIo6v_PHW1_z875jelAKXaQ_aKokBmgGW4qSrawIpVw8pgnQyN1zlAY8iUaAnHmEALw_wcB)
-- :technologist: **Actualmente trabajando: ** `Full Stack Developer` **&** `.NET (Angular + React)`
+- :technologist: **Actualmente trabajando: ** `Full Stack Developer` **&** `.NET (React)`
 - :email: Mi Email: `ezequieleuwardd@gmail.com`
 - `"Crea, innova, inspira 🚀💡"`
 

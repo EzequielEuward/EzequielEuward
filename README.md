@@ -1,64 +1,130 @@
-<!-- Portada Neón Violeta -->
-<div align="center">
-  <img src="https://img.shields.io/badge/EXOMINDSET-%238A2BE2.svg?style=for-the-badge&logo=rocket&logoColor=white" alt="Exomindset Banner">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Ezequiel%20Euward&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Banner Ezequiel Euward">
+<!--horizontal divider(gradiant)-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github.com/EzequielEuward/EzequielEuward/assets/141745425/a7405d4e-88e8-4328-a9af-90eead8ca020">
+
+
+
+<!--h1 without bottom border-->
+
+
+
+<div id="user-content-toc">
+
+  <ul align="left">
+
+    <summary><h1 style="display: inline-block">Hola soy Ezequiel Euward👋</h1></summary>
+
+  </ul>
+
 </div>
 
-# Hola, soy Ezequiel Euward 👋
 
-> **Full Stack Developer** especializándome en **Automation & Efficiency**. 
-> *"Crea, innova, inspira 🚀💡"*
 
----
 
-### 🚀 Sobre Mí
 
-Soy un Analista en Sistemas y Desarrollador Full Stack apasionado por construir software eficiente y moderno. Actualmente, formo parte del equipo de **Automation Team** en [ExoMindset](https://exomindset.co), donde nos centramos en potenciar la innovación tecnológica y la automatización empresarial.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
-### 🟣 Tech Stack & Habilidades
 
-<!-- Grid de Tecnologías Estilo Minimal -->
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-</div>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+
+- :school: - 👨‍💻 Soy `Analista en sistemas` en [Instituto Cervantes (Córdoba, Argentina)](https://www.cervantes.edu.ar/?gad_source=1&gclid=Cj0KCQjw6auyBhDzARIsALIo6v_PHW1_z875jelAKXaQ_aKokBmgGW4qSrawIpVw8pgnQyN1zlAY8iUaAnHmEALw_wcB)
+
+- :technologist: `Actualmente trabajando` : ** `Full Stack Developer` **&** `Systems Analyst`
+
+- :email: Mi Email: `ezequieleuwardd@gmail.com`
+
+- `"Crea, innova, inspira 🚀💡"`
+
+
 
 <br>
 
-<details open>
-  <summary><b>🛠️ Ver Desglose Detallado</b></summary>
-  <ul>
-    <li><b>Lenguajes:</b> JavaScript, TypeScript, Python, C#</li>
-    <li><b>Frontend:</b> React, Vue.js, Svelte, HTML5, CSS3, npm</li>
-    <li><b>Backend:</b> Node.js, Express, Go, .NET</li>
-    <li><b>Automation:</b> Playwright, Cypress, Selenium, Jenkins</li>
-    <li><b>Herramientas:</b> Docker, Git, GitHub, MySQL, NumPy</li>
-    <li><b>Sistemas & Otros:</b> Windows, Ubuntu, Kali Linux</li>
-  </ul>
-</details>
 
----
 
-### 🏢 ExoMindset – Automation Team
+## 🛠️ Mis Habilidades
 
-En ExoMindset, impulsamos la innovación y la eficiencia operativa. Mis contribuciones se centran en:
 
-* 🤖 Desarrollo de bots de automatización de procesos (RPA).
-* 🧪 Implementación de frameworks de testing automatizado (E2E, API).
-* 🛠️ Integración continua y optimización de pipelines CI/CD.
 
-### 🌐 Contacto & Enlaces
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de Programación
 
-<div align="center">
-  <a href="mailto:ezequiel.euward@exomindset.co">
-    <img src="https://img.shields.io/badge/Email-ezequiel.euward@exomindset.co-blue?style=flat-square&logo=gmail" alt="Email">
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" alt="Footer Banner">
-</div>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+
+
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> BackEnd Development
+
+
+
+![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Herramientas de software
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+
+
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
+
+
+<br> 
+
